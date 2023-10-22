@@ -1,0 +1,22 @@
+{
+    "name": "My Seed2Need Wallet",
+    "short_name": "MSW",
+    "start_url": ".",
+    "description": "Send, Stake and Receive with Seed2Need's most universal wallet. ",
+    "orientation": "portrait",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#17012c",
+    "theme_color": "#470e75"
+}
